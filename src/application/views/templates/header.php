@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>CodeIgniter Tutorial</title>
+    <title>Dcoker : Deployment of PHP App</title>
 </head>
 <body>
 
