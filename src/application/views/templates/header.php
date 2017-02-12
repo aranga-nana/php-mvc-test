@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Dcoker : Deployment of PHP App</title>
+    <title>PHP App deployment with docker !!</title>
 </head>
 <body>
 
